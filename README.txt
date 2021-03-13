@@ -1,4 +1,4 @@
-To run our program, simply open "IfStatementAbusers_finalproject.pde" and run the program.
+To run our program, simply open "SquirrelOnSpeedway.pde" and run the program.
 
 The Scenes we have included are as follows -
 
